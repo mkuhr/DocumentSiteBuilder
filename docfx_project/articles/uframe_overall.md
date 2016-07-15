@@ -1,6 +1,6 @@
 # uFrame Overall
 
->Arthor : nitreo
+>Author : nitreo
 >
 >This article describes uFrame editor-side architecture as it was left after being open-sourced.
 >
